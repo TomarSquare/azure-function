@@ -1,0 +1,16 @@
+{
+  "scriptFile" : "..\\azure-function-0.0.1-SNAPSHOT.jar",
+  "entryPoint" : "com.cts.azure.function.azurehandler.UserHandler.get",
+  "bindings" : [ {
+    "type" : "httpTrigger",
+    "name" : "userGetRequest",
+    "direction" : "in",
+    "route" : "{id}",
+    "authLevel" : "anonymous",
+    "methods" : [ "GET" ]
+  }, {
+    "type" : "http",
+    "name" : "$return",
+    "direction" : "out"
+  } ]
+}

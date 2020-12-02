@@ -1,0 +1,8 @@
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\azurehandler\UserHandler.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\util\ResponseDTO.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\domains\User.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\functions\UserGet.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\AzureFunctionApplication.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\service\UserService.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\functions\UserSave.java
+C:\Users\457398\workspace\azure-function\src\main\java\com\cts\azure\function\repository\UserRepository.java
